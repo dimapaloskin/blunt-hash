@@ -5,7 +5,7 @@ const bluntHash = string => {
     const code = char.charCodeAt()
     acc += code
   }
-  
+
   // remainder of division
   return acc % 10
 }

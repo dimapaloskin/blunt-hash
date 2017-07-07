@@ -2,6 +2,8 @@
 
 > Dead stupid hash function for easy explanation idea of the hash functions
 
+[![Build Status](https://travis-ci.org/dimapaloskin/blunt-hash.svg?branch=master)](https://travis-ci.org/dimapaloskin/blunt-hash)
+
 ## How to use
 
 * Clone this repo

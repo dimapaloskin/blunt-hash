@@ -1,0 +1,21 @@
+{
+  "name": "blunt-hash",
+  "version": "1.0.0",
+  "description": "One digit hash function",
+  "main": "index.js",
+  "author": "Dima Pavlovsky",
+  "license": "MIT",
+  "scripts": {
+    "ava": "ava -v",
+    "lint": "standard --verbose | snazzy",
+    "test": "yarn lint && yarn ava"
+  },
+  "dependencies": {
+    "chalk": "^2.0.1"
+  },
+  "devDependencies": {
+    "ava": "^0.20.0",
+    "snazzy": "^7.0.0",
+    "standard": "^10.0.2"
+  }
+}

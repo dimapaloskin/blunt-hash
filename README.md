@@ -15,6 +15,9 @@ yarn install
 ```sh
 node example.js
 ```
+* See result
+
+![result](https://github.com/dimapaloskin/blunt-hash/blob/master/blunt-hash-result.png)
 
 See example sources:
 

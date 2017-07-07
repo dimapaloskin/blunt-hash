@@ -1,6 +1,6 @@
 # blunt-hash
 
-> Dead stupid hash function for easy explanation idea of the [hash functions](https://en.wikipedia.org/wiki/Hash_function)
+> Dead stupid one digit hash function for easy explanation idea of the [hash functions](https://en.wikipedia.org/wiki/Hash_function)
 
 [![Build Status](https://travis-ci.org/dimapaloskin/blunt-hash.svg?branch=master)](https://travis-ci.org/dimapaloskin/blunt-hash)
 

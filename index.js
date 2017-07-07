@@ -1,10 +1,12 @@
 const bluntHash = string => {
+  // accumulator
   let acc = 0
   for (const char of string) {
     const code = char.charCodeAt()
     acc += code
   }
-
+  
+  // remainder of division
   return acc % 10
 }
 

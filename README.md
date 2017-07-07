@@ -7,6 +7,10 @@
 ## How to use
 
 * Clone this repo
+* Install dependencies
+```sh
+yarn install
+```
 * Run example:
 ```sh
 node example.js

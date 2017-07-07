@@ -7,6 +7,9 @@
 ## How to use
 
 * Clone this repo
+```sh
+git clone https://github.com/dimapaloskin/blunt-hash
+```
 * Install dependencies
 ```sh
 yarn install

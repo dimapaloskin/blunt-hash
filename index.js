@@ -1,7 +1,7 @@
 const bluntHash = string => {
   // accumulator
   let acc = 0
- 
+
   // process each letter of a passed string
   for (const char of string) {
     // charCodeAt converts character to a number

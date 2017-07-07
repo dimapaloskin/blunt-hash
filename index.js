@@ -1,7 +1,7 @@
 const bluntHash = string => {
   let acc = 0
   for (const char of string) {
-    const code = char.charCodeAt() % 10
+    const code = char.charCodeAt()
     acc += code
   }
 
